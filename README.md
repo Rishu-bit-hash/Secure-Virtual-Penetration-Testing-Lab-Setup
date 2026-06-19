@@ -42,6 +42,7 @@ ping -c 4 10.0.2.7
 ```
 
 ## Screenshots Attached
+
 1. IP Address Discovery and Successful Ping Test
    
 <img width="1917" height="605" alt="Kali successfull ping Test" src="https://github.com/user-attachments/assets/90b02d46-6110-4311-8844-b6b44e240b47" />
@@ -54,7 +55,7 @@ ping -c 4 10.0.2.7
 
 3. Metasploitable 2 Running
    
-   <img width="1917" height="771" alt="Metasploitable 2 Running" src="https://github.com/user-attachments/assets/84290989-8b70-4b85-9efd-b017a6d6388b" />
+<img width="1917" height="771" alt="Metasploitable 2 Running" src="https://github.com/user-attachments/assets/84290989-8b70-4b85-9efd-b017a6d6388b" />
 
 ## Key Learnings and Outcomes
 Setting up the virtualized penetration testing environment involved learning key concepts of virtualization and networking, along with troubleshooting configuration issues to establish successful communication between the virtual machines.
